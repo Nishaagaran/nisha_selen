@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-17T07:19:14 IST" name="paramter" finished-at="2023-05-17T07:19:32 IST" duration-ms="18059">
+    <groups>
+    </groups>
+    <test started-at="2023-05-17T07:19:14 IST" name="test" finished-at="2023-05-17T07:19:32 IST" duration-ms="18059">
+      <class name="demo.ttestng.NewTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:demo.ttestng.NewTest@53fdffa1]" started-at="2023-05-17T07:19:14 IST" name="beforeMethod" finished-at="2023-05-17T07:19:24 IST" duration-ms="9194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f()[pri:0, instance:demo.ttestng.NewTest@53fdffa1]" started-at="2023-05-17T07:19:24 IST" name="f" finished-at="2023-05-17T07:19:24 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:demo.ttestng.NewTest@53fdffa1]" started-at="2023-05-17T07:19:24 IST" name="afterMethod" finished-at="2023-05-17T07:19:24 IST" duration-ms="281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:demo.ttestng.NewTest@53fdffa1]" started-at="2023-05-17T07:19:24 IST" name="beforeMethod" finished-at="2023-05-17T07:19:32 IST" duration-ms="7738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test(java.lang.String,java.lang.String)[pri:0, instance:demo.ttestng.NewTest@53fdffa1]" started-at="2023-05-17T07:19:32 IST" name="test" finished-at="2023-05-17T07:19:32 IST" duration-ms="299" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tomsmith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[SuperSecretPassword!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:demo.ttestng.NewTest@53fdffa1]" started-at="2023-05-17T07:19:32 IST" name="afterMethod" finished-at="2023-05-17T07:19:32 IST" duration-ms="444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- demo.ttestng.NewTest -->
+    </test> <!-- test -->
+  </suite> <!-- paramter -->
+</testng-results>
